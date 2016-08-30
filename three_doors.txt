@@ -1,1 +1,2 @@
 "Which door will you go through?" 
+"I'll open the door on the left" 
